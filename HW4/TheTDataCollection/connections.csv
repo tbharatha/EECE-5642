@@ -1,0 +1,122 @@
+#,From,To,Line,Minutes
+1,Alewife,Davis,red,3.0
+2,Davis,Porter Square,red,3.0
+3,Porter Square,Harvard Square,red,3.0
+4,Harvard Square,Central Square,red,3.5
+5,Central Square,Kendall/MIT,red,3.5
+6,Kendall/MIT,Charles/MGH,red,2.0
+7,Charles/MGH,Park Street,red,2.0
+8,Park Street,Downtown Crossing,red,1.5
+9,Downtown Crossing,South Station,red,1.5
+10,South Station,Broadway,red,2.5
+11,Broadway,Andrew,red,2.5
+12,Andrew,JFK/UMass,red,2.0
+13,JFK/UMass,Savin Hill,red,2.5
+14,Savin Hill,Fields Corner,red,2.5
+15,Fields Corner,Shawmut,red,2.0
+16,Shawmut,Ashmont,red,2.0
+17,Ashmont,Cedar Grove,red,1.5
+18,Cedar Grove,Butler,red,1.5
+19,Butler,Milton,red,1.5
+20,Milton,Central Avenue,red,1.5
+21,Central Avenue,Valley Road,red,1.5
+22,Valley Road,Capen Street,red,1.5
+23,Capen Street,Mattapan,red,1.0
+24,JFK/UMass,North Quincy,red,9.0
+25,North Quincy,Wollaston,red,2.5
+26,Wollaston,Quincy Center,red,2.5
+27,Quincy Center,Quincy Adams,red,3.0
+28,Quincy Adams,Braintree,red,3.0
+29,Oak Grove,Malden Center,orange,2.0
+30,Malden Center,Wellington,orange,2.0
+31,Wellington,Sullivan Square,orange,2.0
+32,Sullivan Square,Community College,orange,2.0
+33,Community College,North Station,orange,2.0
+34,Haymarket,State,orange,2.0
+35,State,Downtown Crossing,orange,2.0
+36,Downtown Crossing,Chinatown,orange,2.0
+37,Chinatown,New England Medical Center,orange,2.0
+38,New England Medical Center,Back Bay,orange,2.0
+39,Back Bay,Massachusetts Avenue,orange,2.0
+40,Massachusetts Avenue,Ruggles,orange,2.0
+41,Ruggles,Roxbury Crossing,orange,2.0
+42,Roxbury Crossing,Jackson Square,orange,2.0
+43,Jackson Square,Stony Brook,orange,2.0
+44,Stony Brook,Green Street,orange,2.0
+45,Green Street,Forest Hills,orange,2.0
+46,Lechmere,Science Park,green,2.0
+47,Science Park,North Station,green,2.0
+48,North Station,Haymarket,green,2.0
+49,Haymarket,Government Center,green,2.0
+50,Government Center,Park Street,green,2.0
+51,Park Street,Boylston,green,2.0
+52,Boylston,Arlington,green,2.0
+53,Arlington,Copley,green,2.0
+54,Copley,Hynes Convention Center,green,2.0
+55,Hynes Convention Center,Kenmore,green,2.0
+56,Kenmore,Blandford Street,green,2.0
+57,Blandford Street,Boston University East,green,2.0
+58,Boston University East,Boston University Central,green,2.0
+59,Boston University Central,Boston University West,green,2.0
+60,Boston University West,St. Paul Street (1),green,2.0
+61,St. Paul Street (1),Pleasant Street,green,2.0
+62,Pleasant Street,Babcock Street,green,2.0
+63,Babcock Street,Packards Corner,green,2.0
+64,Packards Corner,Harvard Avenue,green,2.0
+65,Harvard Avenue,Griggs Street/Long Avenue,green,2.0
+66,Griggs Street/Long Avenue,Allston Street,green,2.0
+67,Allston Street,Warren Street,green,2.0
+68,Warren Street,Washington Street,green,2.0
+69,Washington Street,Sutherland Street,green,2.0
+70,Sutherland Street,Chiswick Road,green,2.0
+71,Chiswick Road,Chestnut Hill Avenue,green,2.0
+72,Chestnut Hill Avenue,South Street,green,2.0
+73,South Street,Boston College,green,2.0
+74,Kenmore,St. Marys Street,green,2.0
+75,St. Marys Street,Hawes Street,green,2.0
+76,Hawes Street,Kent Street,green,2.0
+77,Kent Street,St. Paul Street (2),green,2.0
+78,St. Paul Street (2),Coolidge Corner,green,2.0
+79,Coolidge Corner,Summit Avenue,green,2.0
+80,Summit Avenue,Brandon Hall,green,2.0
+81,Brandon Hall,Fairbanks,green,2.0
+82,Fairbanks,Washington Square,green,2.0
+83,Washington Square,Tappan Street,green,2.0
+84,Tappan Street,Dean Road,green,2.0
+85,Dean Road,Englewood Avenue,green,2.0
+86,Englewood Avenue,Cleveland Circle,green,2.0
+87,Kenmore,Fenway,green,2.0
+88,Fenway,Longwood,green,2.0
+89,Longwood,Brookline Village,green,2.0
+90,Brookline Village,Brookline Hills,green,2.0
+91,Brookline Hills,Beaconsfield,green,2.0
+92,Beaconsfield,Reservoir,green,2.0
+93,Reservoir,Chestnut Hill,green,2.0
+94,Chestnut Hill,Newton Center,green,2.0
+95,Newton Center,Newton Highlands,green,2.0
+96,Newton Highlands,Eliot,green,2.0
+97,Eliot,Waban,green,2.0
+98,Waban,Woodland,green,2.0
+99,Woodland,Riverside,green,2.0
+100,Copley,Prudential,green,2.0
+101,Prudential,Symphony,green,2.0
+102,Symphony,Northeastern University,green,2.0
+103,Northeastern University,Museum of Fine Arts,green,2.0
+104,Museum of Fine Arts,Longwood Medical Area,green,2.0
+105,Longwood Medical Area,Brigham Circle,green,2.0
+106,Brigham Circle,Fenwood Street,green,2.0
+107,Fenwood Street,Mission Park,green,2.0
+108,Mission Park,Riverway,green,2.0
+109,Riverway,Back of the Hill,green,2.0
+110,Back of the Hill,Heath Street,green,2.0
+111,Wonderland,Revere Beach,blue,1.0
+112,Revere Beach,Beachmont,blue,1.0
+113,Beachmont,Suffolk Downs,blue,1.0
+114,Suffolk Downs,Orient Heights,blue,1.0
+115,Orient Heights,Wood Island,blue,1.0
+116,Wood Island,Airport,blue,1.0
+117,Airport,Maverick,blue,1.0
+118,Maverick,Aquarium,blue,1.0
+119,Aquarium,State,blue,1.0
+120,State,Government Center,blue,1.0
+121,Government Center,Bowdoin,blue,1.0
